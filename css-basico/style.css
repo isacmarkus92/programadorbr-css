@@ -1,9 +1,11 @@
 
-body{
+
+
+#parágrafos{
+
     background-image: url(./fundos/background-01.jpeg)
+
 }
-
-
 
 #principal{
     color: rgb(197, 144, 211)
@@ -17,3 +19,48 @@ body{
 /* no exemplo acima o rgb com o quarto número que é a= alpha, que corresponde a intensidade ou transparencia da cor. Esse número vai de 0 a 1 e quanto maior, maior seria a sua intensidade */
 
 
+#cm{
+
+        background-color: blue;
+        width: 1cm;
+        height: 1cm;
+
+}
+
+#mm{
+
+    background-color: red;
+    width: 1mm;
+    height: 1mm;
+
+}
+
+#in{
+
+    background-color: yellow;
+    width: 1in;
+    height: 1in;
+
+}
+
+#px{
+
+    background-color: gray;
+    width: 1px;
+    height: 1px;
+
+}
+#pt{
+
+    background-color: black;
+    width: 10pt;
+    height: 10pt;
+
+}
+#pc{
+
+    background-color: black;
+    width: 10pc;
+    height: 10pc;
+
+}
