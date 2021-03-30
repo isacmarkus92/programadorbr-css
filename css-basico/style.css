@@ -1,7 +1,12 @@
-#principal{
-    color: rgb(197, 144, 211);
 
-    background-image: url();
+body{
+    background-image: url(./fundos/background-01.jpeg)
+}
+
+
+
+#principal{
+    color: rgb(197, 144, 211)
 }
 .texto_verde { color: rgb(32, 159, 218);}
 
