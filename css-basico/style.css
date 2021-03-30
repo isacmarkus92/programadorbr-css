@@ -64,3 +64,22 @@
     height: 10pc;
 
 }
+.container{
+    font-size: 20px;
+    width: 500px;
+    height: 2vw;
+    background-color: blue;
+}
+
+.inside{
+    font-size: 2em;
+    width: 500px;
+    height: 10vw;
+    background-color: red;
+}
+
+/* com respeito as unidades em ou rem, elas adotam o tamanho, no caso do em, do elemento imediatamente maior em que ele pertence seja uma div ou um p ou um bory, sendo que um estilo em font-size com rem, adota o imediatamente o texto padrão global que é o body */
+
+/* a unidade vw corresponde proporcionalmente ao tamanho da página em largura, o vh em altura, e o vmin ao lado minimo que está sendo dimensionado sendo que o vmax é o contrário do vmin */
+
+/* Quando se utiliza o %, para adotar a proporção do container, ele sempre seguirá o elemento em sua porcentagem definida */
