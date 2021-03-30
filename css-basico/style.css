@@ -1,5 +1,14 @@
 #principal{
-    color: yellow;
+    color: rgb(197, 144, 211);
+
+    background-image: url();
 }
-.texto_verde { color: goldenrod;}
+.texto_verde { color: rgb(32, 159, 218);}
+
+#Titulo{ color: burlywood;}
+
+.rgb {color:rgb(0,100,255,0.7)}
+
+/* no exemplo acima o rgb com o quarto número que é a= alpha, que corresponde a intensidade ou transparencia da cor. Esse número vai de 0 a 1 e quanto maior, maior seria a sua intensidade */
+
 
